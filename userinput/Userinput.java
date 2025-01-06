@@ -8,7 +8,8 @@ public class Userinput {
         Scanner scanobj=new Scanner(System.in);
         x=scanobj.nextInt();
         System.out.println("the value of x i "+x);
-        
+    
+
 
     }
 
