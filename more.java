@@ -1,7 +1,6 @@
 
 import java.util.*;
-// 1. **Triangle Validity:** Check if three sides entered by the user can form a valid triangle. 
- //  **Hint:** A triangle is valid if sum of any two sides > third side.
+
 public class more{
     public static void main(String[] args){
         System.out.println("enter the marks: ");
